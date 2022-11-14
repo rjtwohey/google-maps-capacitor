@@ -1,0 +1,7 @@
+{
+  "name": "nav-google-maps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
